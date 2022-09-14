@@ -4,4 +4,4 @@
 
 
 *This text should be italic*
-__ Should be italic as well __ 
+_ Should be italic as well _ 
