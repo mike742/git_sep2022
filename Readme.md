@@ -5,3 +5,5 @@
 
 *This text should be italic*
 _Should be italic as well_ 
+
+_You **can** combine them_
